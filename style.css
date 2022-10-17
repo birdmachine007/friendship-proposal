@@ -168,7 +168,7 @@ div#sea {
   /*top:50%;
   width: 100%;*/
   height: auto;
-  transform: translateY(10px) rotate(-10deg);
+  transform: translateY(10px) rotate(-2deg);
 }
 .icons .row {
   width: 100%;
